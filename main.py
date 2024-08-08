@@ -86,11 +86,12 @@ if opc == 1:
         Por favor ingresa los siguiente datos para proceder a la venta
         del producto
     """)
+    NomSec=input("Ingrese el nombre de la categoria que desees comprar: \n")
     NomProd=str(input("Ingrese el nombre del producto: \n"))
     PreProd=int(input("Ingrese el precio del producto: \n"))
     CantProd=int(input("Ingrese la cantidad del producto: \n"))
 
-    for i in productos["nombre"]:
+    for i in productos[NomSec]:
         if i["nombre"]==NomProd:
             ventaProd={"nombre":i["nombre"], "Cantidad":CantProd, "Precio":i["precio"]}
 
