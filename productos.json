@@ -1,1 +1,162 @@
-{"Panaderia": [{"nombre": "Pan de Bono", "precio": 700}, {"nombre": "Pan de Queso", "precio": 800}, {"nombre": "Pan Cascarita", "precio": 500}, {"nombre": "Pan de Yuca", "precio": 800}, {"nombre": "Calentano", "precio": 700}, {"nombre": "Rollito de Sal", "precio": 900}, {"nombre": "Pan Integral", "precio": 700}, {"nombre": "Pan relleno de Arequipe", "precio": 1150}, {"nombre": "Pan con Salchicha", "precio": 1300}, {"nombre": "Pan recubierto de Chocolate", "precio": 1200}], "Pasteleria": [{"nombre": "Pastel de Vainilla", "precio": 5000}, {"nombre": "Pastel de Chocolate", "precio": 5500}, {"nombre": "Pastel de bodas", "precio": 10000}, {"nombre": "Glaseado de Vainilla", "precio": 3000}, {"nombre": "Glaseado de Chocolate", "precio": 3500}, {"nombre": "Pastel de Arequipe", "precio": 5700}, {"nombre": "Pastel de Oreo", "precio": 7000}, {"nombre": "Postre de Limon", "precio": 4300}, {"nombre": "Postre de Vainilla", "precio": 4000}, {"nombre": "Postre de Tres Leches", "precio": 4500}], "Bebidas": [{"nombre": "Coca-Cola", "precio": 3000}, {"nombre": "Pepsi", "precio": 2900}, {"nombre": "Red-Bull", "precio": 4000}, {"nombre": "Gatorade", "precio": 3700}, {"nombre": "Budweiser", "precio": 3200}, {"nombre": "Hit", "precio": 2500}, {"nombre": "Pony-Malta", "precio": 2300}, {"nombre": "Sprite", "precio": 3200}, {"nombre": "Monster", "precio": 3000}, {"nombre": "Tropicana", "precio": 2400}, {"nombre": "1 Pan con Salchicha y 1 Pony Malta", "precio": 3000}, {"nombre": "1 Postre de Oreo y 1 Budweiser", "precio": 9000}], "Apartado de promociones": [{"nombre": "6 Panes Integrales", "precio": 4000}, {"nombre": "5 Panes recubiertos de Chocolate", "precio": 5500}, {"nombre": "3 Pasteles de Vainilla", "precio": 13000}, {"nombre": "4 Postres de Oreo", "precio": 25000}, {"nombre": "1 Pan con Salchicha y 1 Pony Malta", "precio": 3000}, {"nombre": "1 Postre de Oreo y 1 Budweiser", "precio": 9000}]}
+{
+    "Panaderia": [
+        {
+            "nombre": "Pan de Bono",
+            "precio": 700
+        },
+        {
+            "nombre": "Pan de Queso",
+            "precio": 800
+        },
+        {
+            "nombre": "Pan Cascarita",
+            "precio": 500
+        },
+        {
+            "nombre": "Pan de Yuca",
+            "precio": 800
+        },
+        {
+            "nombre": "Calentano",
+            "precio": 700
+        },
+        {
+            "nombre": "Rollito de Sal",
+            "precio": 900
+        },
+        {
+            "nombre": "Pan Integral",
+            "precio": 700
+        },
+        {
+            "nombre": "Pan relleno de Arequipe",
+            "precio": 1150
+        },
+        {
+            "nombre": "Pan con Salchicha",
+            "precio": 1300
+        },
+        {
+            "nombre": "Pan recubierto de Chocolate",
+            "precio": 1200
+        }
+    ],
+    "Pasteleria": [
+        {
+            "nombre": "Pastel de Vainilla",
+            "precio": 5000
+        },
+        {
+            "nombre": "Pastel de Chocolate",
+            "precio": 5500
+        },
+        {
+            "nombre": "Pastel de bodas",
+            "precio": 10000
+        },
+        {
+            "nombre": "Glaseado de Vainilla",
+            "precio": 3000
+        },
+        {
+            "nombre": "Glaseado de Chocolate",
+            "precio": 3500
+        },
+        {
+            "nombre": "Pastel de Arequipe",
+            "precio": 5700
+        },
+        {
+            "nombre": "Pastel de Oreo",
+            "precio": 7000
+        },
+        {
+            "nombre": "Postre de Limon",
+            "precio": 4300
+        },
+        {
+            "nombre": "Postre de Vainilla",
+            "precio": 4000
+        },
+        {
+            "nombre": "Postre de Tres Leches",
+            "precio": 4500
+        }
+    ],
+    "Bebidas": [
+        {
+            "nombre": "Coca-Cola",
+            "precio": 3000
+        },
+        {
+            "nombre": "Pepsi",
+            "precio": 2900
+        },
+        {
+            "nombre": "Red-Bull",
+            "precio": 4000
+        },
+        {
+            "nombre": "Gatorade",
+            "precio": 3700
+        },
+        {
+            "nombre": "Budweiser",
+            "precio": 3200
+        },
+        {
+            "nombre": "Hit",
+            "precio": 2500
+        },
+        {
+            "nombre": "Pony-Malta",
+            "precio": 2300
+        },
+        {
+            "nombre": "Sprite",
+            "precio": 3200
+        },
+        {
+            "nombre": "Monster",
+            "precio": 3000
+        },
+        {
+            "nombre": "Tropicana",
+            "precio": 2400
+        },
+        {
+            "nombre": "1 Pan con Salchicha y 1 Pony Malta",
+            "precio": 3000
+        },
+        {
+            "nombre": "1 Postre de Oreo y 1 Budweiser",
+            "precio": 9000
+        }
+    ],
+    "Apartado de promociones": [
+        {
+            "nombre": "6 Panes Integrales",
+            "precio": 4000
+        },
+        {
+            "nombre": "5 Panes recubiertos de Chocolate",
+            "precio": 5500
+        },
+        {
+            "nombre": "3 Pasteles de Vainilla",
+            "precio": 13000
+        },
+        {
+            "nombre": "4 Postres de Oreo",
+            "precio": 25000
+        },
+        {
+            "nombre": "1 Pan con Salchicha y 1 Pony Malta",
+            "precio": 3000
+        },
+        {
+            "nombre": "1 Postre de Oreo y 1 Budweiser",
+            "precio": 9000
+        }
+    ]
+}
