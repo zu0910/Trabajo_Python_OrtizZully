@@ -14,7 +14,7 @@ Es un sistema de gestión integral que permite manejar todas las operaciones rel
     | ventas.json | Guarda todos los datos registrados a la hora de hacer una venta |
     | productos.json | Contiene todos las categorias disponibles con su respectivo nombre y precio |
     | main.py | Realización del codigo |
-    |
+    
 
     ## Estructura 
     ![alt text](image.png) 
@@ -22,6 +22,7 @@ Es un sistema de gestión integral que permite manejar todas las operaciones rel
     ## Lenguajes de uso 
 
     ![imagen](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
     
     ## Instalación 
 
@@ -30,7 +31,7 @@ Es un sistema de gestión integral que permite manejar todas las operaciones rel
 
     ## Creditos 
 
-    Elaborado por Zully Fernanda Ortiz Avendaño 
+    Elaborado por Zully Fernanda Ortiz Avendaño Cc. 1092528097
 
 
 
